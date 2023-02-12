@@ -1,14 +1,17 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/)
+![Twerkish](https://avatars.githubusercontent.com/u/124506068?s=200&v=4)
+## scratch-gui
+scratch-gui modified from [TurboWarp](https://turbowarp.org/).
+Set of React elements modified by @GarboMuffin and  @WojtekCodesToday.
 
 ## Setup
 
-See https://docs.turbowarp.org/development/getting-started to setup the complete TurboWarp environment.
+Use [TurboWarp's documentary](https://docs.turbowarp.org/development/getting-started) to setup the TurboWarp environment.
 
 If you just want to play with the GUI then it's the same process as upstream scratch-gui.
 
 ## License
 
-TurboWarp's modifications to Scratch are licensed under the GNU General Public License v3.0. See LICENSE or https://www.gnu.org/licenses/ for details.
+Twerkish/TurboWarp's modifications to Scratch are licensed under the GNU General Public License v3.0. See LICENSE or https://www.gnu.org/licenses/ for details.
 
 The following is the original license for scratch-gui, which we are required to retain. This is NOT the license of this project.
 
